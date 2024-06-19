@@ -20,7 +20,7 @@ Example config.json:
     {
       "accessory": "Tessie",
       "name": "My Tessie",
-      "accessToken": "kYcIqxxRCPUglPLtnmy6jmuh8KKvyxrs"
+      "accessToken": "YOUR_TESSIE_API_TOKEN"
     }
   ]
 }
